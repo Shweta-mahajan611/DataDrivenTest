@@ -1,6 +1,6 @@
 package com.datadriven.test;
 
-import com.datadriventest.excelutility.Xls_Reader;
+import com.datadriven.excelutility.Xls_Reader;
 
 public class ExcelOPerations 
 {

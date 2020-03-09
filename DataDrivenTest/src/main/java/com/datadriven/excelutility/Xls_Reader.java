@@ -1,4 +1,4 @@
-package com.datadriventest.excelutility;
+package com.datadriven.excelutility;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

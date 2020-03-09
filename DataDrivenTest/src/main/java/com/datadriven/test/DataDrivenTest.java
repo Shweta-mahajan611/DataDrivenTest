@@ -3,7 +3,8 @@ package com.datadriven.test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import com.datadriventest.excelutility.Xls_Reader;
+
+import com.datadriven.excelutility.Xls_Reader;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
