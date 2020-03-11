@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="facebook app test automation suite">
+<test name="facebook app test">
+<!--environment variables : url, emailid, password  -->
+<parameter name="emailid" value ="shweta111@gmail.com"/>
+<parameter name="password" value ="shweta12345"/>
+<classes>
+	<class name="com.datadriven.tests.ParameterTest"/>
+</classes>
+</test>
+</suite>
